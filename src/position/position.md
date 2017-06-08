@@ -1,3 +1,5 @@
+[<< Index](../../../../)
+
 # NKPosition
 A set of basic set of positioning functions
 
@@ -14,7 +16,6 @@ Get the mouse position.
 
 - Relative: Screen starts at [ScollX,ScrollY]
 - Absolute: Screen starts at [0,0]
-<br>
 
         console.log( "Relative [X,Y]:", NKPosition.getMouse() );
         console.log( "Absolute [X,Y]:", NKPosition.getMouse(true) );
