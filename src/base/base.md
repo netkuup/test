@@ -6,7 +6,7 @@ NK.isset( variable )
 Returns false if any of these conditions are met:
 - typeof variable === 'undefined'
 - variable == null
-
+<br>
 
         var foo = "bar";
         if ( NK.isset(foo) ) console.log( "Is set" );
