@@ -23,7 +23,9 @@ Get the mouse position.
 **Params:**
 
 NKPosition.getMouse( absolute )
+
 NKPosition.getMouseX( absolute )
+
 NKPosition.getMouseY( absolute )
 
 | param | Values | Mandatory | Description |
