@@ -1,5 +1,3 @@
-[<< Index](../../readme.md)
-
 # NKBase JS
 A set of basic functions.
 
@@ -62,4 +60,4 @@ Make an element look like a button.
 Element width full size.
 - Width: 100%
 
-[<< Index](../../)
+[<< Index](../../../../)
