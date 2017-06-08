@@ -1,7 +1,7 @@
-[<< Index](../../../../)
-
 # NKPosition
 A set of basic set of positioning functions
+
+[See the ./examples directory](./examples)
 
 Initialization
 ----------------------------------------------------------------------------
