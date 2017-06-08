@@ -15,17 +15,15 @@ Get the mouse position.
 - Relative: Screen starts at [ScollX,ScrollY]
 - Absolute: Screen starts at [0,0]
 
-
-    console.log( "Relative [X,Y]:", NKPosition.getMouse() );
-    console.log( "Absolute [X,Y]:", NKPosition.getMouse(true) );
-    
-    console.log( "Relative X:", NKPosition.getMouseX() );
-    console.log( "Absolute Y:", NKPosition.getMouseY(true) );
+        console.log( "Relative [X,Y]:", NKPosition.getMouse() );
+        console.log( "Absolute [X,Y]:", NKPosition.getMouse(true) );
+        console.log( "Relative X:", NKPosition.getMouseX() );
+        console.log( "Absolute Y:", NKPosition.getMouseY(true) );
     
 **Params:**
 
-NKPosition.getMouse( absolute ) <br>
-NKPosition.getMouseX( absolute ) <br>
+NKPosition.getMouse( absolute )
+NKPosition.getMouseX( absolute )
 NKPosition.getMouseY( absolute )
 
 | param | Values | Mandatory | Description |
