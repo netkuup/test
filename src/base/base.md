@@ -29,7 +29,7 @@ Makes a text look like a link.
 - Blue color
 - Hand cursor
 - Underline
-
+<br>
 
         <div class="NKLink">It looks like a link</div>
 
