@@ -54,6 +54,11 @@ NK.core.ignoreMutations = function( numMutations ) {
 
 
 
+
+var event = new CustomEvent("NKLibsJS_ready", { "detail": "Example of an event" });
+document.dispatchEvent(event);
+
+
 /*
 NK.autoload = function( modules ) {
 
