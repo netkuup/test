@@ -1,10 +1,18 @@
-$fullred = #ff0000;
-body {
-    font-family: Helvetica, Verdana
+.my_style {
+    text-align: center;
+    font: italic normal 90% Georgia, serif;
+    line-height: 150%;
+    text-shadow: white 0 1px;
+    background: #DDD;
+    border: 5px solid #6E6E6E;
+    border-radius: 3px;
+    width: 250px;
 }
-p {
-    padding: 7px 10px;
-}
-#demo {
-    border: 1px solid $fullred;
+
+.NKPopup_src {
+    width: 170px;
+    margin: 0 auto;
+    background-color: lightblue;
+    margin-top: 80px;
+    text-align: center;
 }
