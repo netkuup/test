@@ -1,0 +1,10 @@
+---
+ name: NKPopup Demo
+ description: NKPopup Demo
+ authors:
+   - Netkuup
+ resources:
+   - https://rawgithub.com/netkuup/test/master/nklibsjs.min.js
+   - https://rawgithub.com/netkuup/test/master/nklibsjs.min.css
+ normalize_css: no
+ ...
