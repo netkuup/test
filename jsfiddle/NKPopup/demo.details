@@ -8,5 +8,5 @@
    - https://rawgithub.com/netkuup/test/master/nklibsjs.min.js
    - https://rawgithub.com/netkuup/test/master/nklibsjs.min.css
  normalize_css: no
- js_wrap: d
+ js_wrap: l
  ...
