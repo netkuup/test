@@ -1,1 +1,0 @@
-NKPopup.start( true );

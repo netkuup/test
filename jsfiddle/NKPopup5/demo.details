@@ -1,7 +1,0 @@
----
- name: NKPopup Demo
- description: NKPopup Demo
- authors:
-   - Netkuup
- js_wrap: b
- ...
